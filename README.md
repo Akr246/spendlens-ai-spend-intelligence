@@ -6,7 +6,7 @@
 
 Most money apps tell you what you spent. SpendLens tells you what you must not touch.
 
-[**Live demo →**](https://YOUR-USERNAME.github.io/spendlens-ai-spend-intelligence/) · [Case study](https://YOUR-USERNAME.github.io/spendlens-ai-spend-intelligence/#/case-study) · [Open the app](https://YOUR-USERNAME.github.io/spendlens-ai-spend-intelligence/#/app)
+[**Live demo →**](https://akr246.github.io/spendlens-ai-spend-intelligence/) · [Case study](https://akr246.github.io/spendlens-ai-spend-intelligence/#/case-study) · [Open the app](https://akr246.github.io/spendlens-ai-spend-intelligence/#/app)
 
 ![Case study](docs/case-study.png)
 
